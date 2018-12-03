@@ -1,0 +1,332 @@
+number,job,medium,beats covered,gender,local or foreign,freelance,type of death,suspected source of fire,impunity,taken captive,tortured,threatened
+993,"Broadcast Reporter, Camera Operator",Television,"Politics, War",Male,Local,No,Dangerous Assignment,Political Group,,,,
+994,Print Reporter,Print,Crime,Male,Local,No,Dangerous Assignment,Political Group,,,,
+995,Editor,Print,"Corruption, Crime",Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,No
+996,Print Reporter,Print,Culture,Male,Foreign,No,Murder,Local Residents,Complete Impunity,No,No,No
+997,Columnist / Commentator,"Print, Internet","Culture, Human Rights, Politics",Male,Local,Yes,Murder,Political Group,Partial Impunity,No,No,Yes
+998,Broadcast Reporter,Television,Human Rights,Male,Foreign,Yes,Murder,Unknown Fire,Complete Impunity,No,No,No
+999,Broadcast Reporter,Radio,War,Male,Foreign,No,Crossfire,Military Officials,,,,
+1000,Print Reporter,Print,Human Rights,Male,Local,No,Murder,Military Officials,Complete Impunity,No,No,No
+1001,Print Reporter,Print,Politics,Male,Local,No,Murder,Military Officials,Complete Impunity,Yes,No,No
+1002,Photographer,Print,War,Male,Local,No,Dangerous Assignment,Political Group,,,,
+1003,Print Reporter,Print,Corruption,Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,Yes
+1004,Print Reporter,Print,Politics,Male,Local,Yes,Murder,Political Group,Complete Impunity,Yes,No,No
+1005,Broadcast Reporter,"Radio, Television","Politics, War",Male,Local,Yes,Dangerous Assignment,Government Officials,,,,
+1006,"Camera Operator, Editor, Broadcast Reporter",Television,War,Male,Local,No,Crossfire,Military Officials,,,,
+1007,Publisher / Owner,Print,War,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1008,Editor,Television,"Culture, Politics",Male,Local,No,Murder,Political Group,Complete Impunity,Yes,No,No
+1009,Broadcast Reporter,Television,Politics,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1010,Broadcast Reporter,Television,"Corruption, Human Rights, Politics",Female,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1011,Broadcast Reporter,Television,"Politics, War",Female,Local,No,Murder,Political Group,Complete Impunity,Yes,No,Yes
+1012,"Print Reporter, Publisher / Owner",Print,"Corruption, Crime, Politics",Male,Local,No,Murder,Government Officials,Partial Impunity,No,No,No
+1013,"Broadcast Reporter, Producer",Television,"Culture, Sports, War",Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1014,Photographer,Print,War,Male,Foreign,Yes,Crossfire,Military Officials,,,,
+1015,Internet Reporter,Internet,"Culture, Politics",Male,Local,Yes,Murder,Political Group,Complete Impunity,No,No,Yes
+1016,Print Reporter,Print,"Corruption, Crime, Politics",Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,Yes
+1017,Print Reporter,Print,Corruption,Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,Yes
+1018,Print Reporter,Print,"Corruption, Crime",Male,Local,Yes,Murder,Criminal Group,Complete Impunity,No,No,No
+1019,"Broadcast Reporter, Camera Operator",Television,"Crime, Politics",Male,Local,No,Dangerous Assignment,Unknown Fire,,,,
+1020,Print Reporter,Print,"Corruption, Crime, Politics",Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,No
+1021,Editor,Print,Crime,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1022,Print Reporter,Print,"Corruption, Human Rights, Politics",Male,Local,Yes,Dangerous Assignment,Government Officials,,,,
+1023,Camera Operator,Internet,"Human Rights, War",Male,Local,Yes,Crossfire,Military Officials,,,,
+1024,Broadcast Reporter,"Television, Internet","Human Rights, Politics, War",Male,Local,No,Crossfire,Military Officials,,,,
+1025,Photographer,"Print, Television, Internet","Human Rights, Politics, War",Male,Local,No,Crossfire,Military Officials,,,,
+1026,Camera Operator,Television,War,Male,Local,No,Dangerous Assignment,Political Group,,,,
+1027,Producer,Television,War,Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1028,Camera Operator,Television,War,Male,Local,Yes,Crossfire,Military Officials,,,,
+1029,Broadcast Reporter,Radio,"Politics, War",Female,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1030,Camera Operator,Television,War,Male,Local,No,Crossfire,Unknown Fire,,,,
+1031,Broadcast Reporter,Television,"Politics, War",Male,Local,No,Dangerous Assignment,Political Group,,,,
+1032,Broadcast Reporter,Television,"Politics, War",Male,Local,No,Murder,Unknown Fire,Complete Impunity,Yes,Yes,No
+1033,Print Reporter,Print,"Crime, Politics",Female,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1034,"Broadcast Reporter, Camera Operator, Print Reporter","Print, Television","Business, Corruption, Crime, Human Rights, Politics, War",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1035,,Print,Corruption,Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,Yes
+1036,Columnist / Commentator,Radio,"Human Rights, Politics",Female,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1037,Photographer,Print,"Human Rights, War",Male,Foreign,Yes,Crossfire,Military Officials,,,,
+1038,Columnist / Commentator,Radio,"Corruption, Crime",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1039,Print Reporter,Print,Politics,Male,Local,No,Murder,Government Officials,Complete Impunity,Yes,Yes,No
+1040,Photographer,Print,Politics,Male,Local,No,Murder,Government Officials,Complete Impunity,Yes,Yes,No
+1041,Broadcast Reporter,Television,Culture,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1042,Editor,Print,"Politics, War",Male,Local,No,Murder,Military Officials,Complete Impunity,No,No,Yes
+1043,"Editor, Publisher / Owner",Print,"Business, Corruption, Crime",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1044,Broadcast Reporter,Television,Human Rights,Male,Local,No,Dangerous Assignment,Political Group,,,,
+1045,Camera Operator,Television,War,Male,Foreign,Yes,Murder,Unknown Fire,Complete Impunity,No,No,No
+1046,Broadcast Reporter,Radio,"Corruption, Crime",Male,Local,No,Murder,Criminal Group,Complete Impunity,Yes,No,No
+1047,Broadcast Reporter,Television,Culture,Male,Local,Yes,Murder,Mob Violence,Complete Impunity,No,No,No
+1048,Print Reporter,Print,"Politics, War",Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1049,"Columnist/Commentator, Editor","Internet, Print","Business, Culture, Politics, Sports",Male,Local,No,Murder,Local Residents,Complete Impunity,No,No,Yes
+1050,Broadcast Reporter,Radio,War,Male,Local,No,Dangerous Assignment,Military Officials,,,,
+1051,Editor,Print,Culture,Male,Local,No,Murder,Local Residents,Full Justice,No,No,No
+1052,Print Reporter,Print,Crime,Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,Yes
+1053,Photographer,Print,Human Rights,Male,Local,No,Dangerous Assignment,Paramilitary Group,,,,
+1054,"Broadcast Reporter, Camera Operator",Television,War,Male,Foreign,Yes,Crossfire,Military Officials,,,,
+1055,Broadcast Reporter,Radio,"Crime, Politics",Male,Local,No,Murder,Paramilitary Group,Complete Impunity,Yes,No,Yes
+1056,Print Reporter,Print,Crime,Male,Local,No,Murder,Criminal Group,Complete Impunity,Yes,No,Yes
+1057,"Broadcast Reporter, Print Reporter","Print, Radio",Crime,Male,Local,No,Murder,Government Officials,Partial Impunity,No,No,Yes
+1058,Columnist / Commentator,Radio,"Corruption, Crime",Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,No
+1059,"Editor, Print Reporter",Print,"Politics, War",Male,Local,No,Unknown,Military Officials,,,,
+1060,Broadcast Reporter,Radio,"Corruption, Crime",Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,No
+1061,Columnist / Commentator,Radio,Crime,Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,Yes
+1062,Print Reporter,Print,Corruption,Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,No
+1063,Print Reporter,Print,Politics,Male,Local,No,Murder,Government Officials,Complete Impunity,Yes,Yes,No
+1064,Publisher / Owner,Print,Corruption,Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,No
+1065,"Broadcast Reporter, Columnist / Commentator",Radio,"Corruption, Politics",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,Yes
+1066,Print Reporter,Print,Politics,Male,Local,No,Murder,Government Officials,Complete Impunity,Yes,Yes,No
+1067,Camera Operator,Television,Politics,Male,Foreign,No,Dangerous Assignment,Military Officials,,,,
+1068,Print Reporter,Print,Politics,Male,Local,No,Murder,Government Officials,Complete Impunity,Yes,Yes,No
+1069,Columnist / Commentator,Radio,"Crime, Politics",Male,Local,No,Murder,Criminal Group,Partial Impunity,No,No,Yes
+1070,Print Reporter,Print,Politics,Male,Local,No,Murder,Government Officials,Complete Impunity,Yes,Yes,No
+1071,Photographer,Print,"Culture, Human Rights, Politics",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,Yes,Yes
+1072,"Broadcast Reporter, Print Reporter","Print, Radio","Corruption, Crime",Female,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,Yes
+1073,Print Reporter,Print,War,Male,Foreign,No,Crossfire,Political Group,,,,
+1074,Editor,Print,,Male,Local,No,Murder,Local Residents,Full Justice,No,Yes,No
+1075,Camera Operator,Television,"Business, Culture",Male,Local,No,Dangerous Assignment,Political Group,,,,
+1076,Camera Operator,Television,"Business, Culture",Male,Local,No,Dangerous Assignment,Political Group,,,,
+1077,Print Reporter,Print,Politics,Male,Local,No,Murder,Unknown Fire,Complete Impunity,Yes,No,No
+1078,Broadcast Reporter,Television,Politics,Male,Local,No,Dangerous Assignment,Political Group,,,,
+1079,Producer,"Print, Radio, Internet, Television","Culture, Politics, War",Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1080,Print Reporter,Print,Crime,Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,No
+1081,Print Reporter,Print,War,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1082,Broadcast Reporter,Television,Culture,Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1083,Photographer,Print,War,Male,Local,Yes,Murder,Political Group,Complete Impunity,No,No,No
+1084,Camera Operator,Television,"Culture, Sports",Male,Local,No,Crossfire,Political Group,,,,
+1085,Broadcast Reporter,Radio,Culture,Female,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1086,Print Reporter,Print,War,Female,Local,Yes,Murder,Political Group,Complete Impunity,No,No,Yes
+1087,Print Reporter,Print,"Corruption, Culture, Politics",Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1088,Broadcast Reporter,Television,War,Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1089,Editor,Print,"Business, Culture, Politics, War",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1090,Publisher / Owner,Radio,"Human Rights, War",Male,Local,No,Murder,Political Group,Partial Impunity,No,No,Yes
+1091,Editor,Print,War,Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1092,Print Reporter,Print,War,Female,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1093,Broadcast Reporter,Television,Politics,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1094,"Editor, Publisher / Owner",Print,,Male,Local,No,Murder,Paramilitary Group,Complete Impunity,Yes,Yes,No
+1095,Technician,Television,War,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1096,Broadcast Reporter,Television,War,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1097,Broadcast Reporter,Television,"Crime, Human Rights, Politics",Male,Local,No,Dangerous Assignment,Political Group,,,,
+1098,"Editor, Publisher / Owner",Print,"Corruption, Crime, Human Rights",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1099,Print Reporter,Print,Corruption,Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,No
+1100,Internet Reporter,Internet,"Human Rights, Politics",Male,Local,No,Dangerous Assignment,Political Group,,,,
+1101,"Columnist / Commentator, Internet Reporter",Internet,"Business, Corruption, Politics, War",Male,Local,No,Murder,Military Officials,Complete Impunity,Yes,Yes,Yes
+1102,Broadcast Reporter,Television,"Politics, War",Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1103,Photographer,Internet,"Culture, Politics",Male,Local,No,Dangerous Assignment,Paramilitary Group,,,,
+1104,Camera Operator,Television,War,Male,Local,No,Crossfire,Military Officials,,,,
+1105,Broadcast Reporter,"Television, Internet","Human Rights, Politics, War",Male,Local,No,Crossfire,Military Officials,,,,
+1106,Print Reporter,Print,"Politics, War",Male,Foreign,No,Murder,Political Group,Complete Impunity,No,No,No
+1107,Photographer,Print,War,Male,Local,No,Crossfire,Military Officials,,,,
+1108,"Broadcast Reporter, Publisher/Owner",Television,"Corruption, Politics",Male,Local,No,Murder,"Criminal Group, Government Officials",Complete Impunity,Yes,No,No
+1109,Producer,Radio,"Corruption, Crime",Male,Local,No,Murder,Criminal Group,Partial Impunity,No,No,No
+1110,Print Reporter,Print,Human Rights,Male,Local,No,Dangerous Assignment,Political Group,,,,
+1111,Broadcast Reporter,Television,War,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1112,"Camera Operator, Photographer",Television,"Human Rights, Politics, War",Male,Local,No,Crossfire,Military Officials,,,,
+1113,"Broadcast Reporter, Internet Reporter","Radio, Internet",War,Male,Local,No,Murder,Political Group,Complete Impunity,Yes,No,Yes
+1114,Broadcast Reporter,Television,Politics,Male,Local,No,Crossfire,Unknown Fire,,,,
+1115,"Photographer, Internet Reporter",Internet,War,Male,Local,No,Murder,Political Group,Complete Impunity,Yes,No,Yes
+1116,Broadcast Reporter,Television,"Corruption, Politics, War",Male,Local,No,Dangerous Assignment,Political Group,,,,
+1117,Columnist / Commentator,Print,Politics,Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,Yes
+1118,Photographer,Print,Politics,Male,Local,No,Crossfire,Unknown Fire,,,,
+1119,"Columnist / Commentator, Publisher / Owner",Radio,"Corruption, Crime, Politics",Male,Local,No,Murder,Government Officials,Full Justice,No,No,No
+1120,Broadcast Reporter,Television,Corruption,Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,Yes
+1121,Print Reporter,Print,War,Male,Foreign,Yes,Murder,Military Officials,Complete Impunity,No,Yes,No
+1122,Camera Operator,Television,Politics,Male,Local,No,Dangerous Assignment,Local Residents,,,,
+1123,Broadcast Reporter,Radio,Politics,Male,Local,No,Murder,Government Officials,Complete Impunity,Yes,Yes,No
+1124,Print Reporter,Print,Human Rights,Male,Local,No,Dangerous Assignment,Paramilitary Group,,,,
+1125,Photographer,"Print, Internet","Business, Corruption",Male,Local,No,Dangerous Assignment,Political Group,,,,
+1126,"Internet Reporter, Print Reporter","Print, Internet",Corruption,Male,Local,Yes,Murder,Government Officials,Complete Impunity,Yes,No,Yes
+1127,Broadcast Reporter,Television,War,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1128,Internet Reporter,Internet,"Politics, War",Female,Local,Yes,Murder,Unknown Fire,Complete Impunity,No,No,Yes
+1129,Print Reporter,Print,Crime,Male,Local,Yes,Murder,Local Residents,Full Justice,Yes,No,No
+1130,Internet Reporter,Internet,"Corruption, Human Rights, Politics",Male,Local,Yes,Dangerous Assignment,Government Officials,,,,
+1131,Internet Reporter,Internet,Culture,Male,Local,No,Dangerous Assignment,Political Group,,,,
+1132,"Print Reporter, Internet Reporter","Internet, Television",Culture,Male,Local,No,Dangerous Assignment,Political Group,,,,
+1133,Print Reporter,Print,"Culture, Politics",Male,Local,No,Murder,Government Officials,Complete Impunity,Yes,No,No
+1134,Print Reporter,Print,Corruption,Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,Yes
+1135,Print Reporter,Print,"Politics, War",Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1136,Camera Operator,Television,Culture,Male,Local,Yes,Crossfire,Political Group,,,,
+1137,"Broadcast Reporter, Editor",Radio,War,Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,Yes
+1138,Technician,Television,Politics,Male,Local,No,Dangerous Assignment,Military Officials,,,,
+1139,Photographer,Print,"Human Rights, War",Male,Local,No,Crossfire,Unknown Fire,,,,
+1140,Print Reporter,Print,"Crime, Politics",Male,Local,No,Dangerous Assignment,Political Group,,,,
+1141,Photographer,"Print, Internet",War,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1142,Print Reporter,Print,Human Rights,Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,No
+1143,"Photographer, Internet Reporter",Internet,War,Male,Local,Yes,Crossfire,Military Officials,,,,
+1144,Camera Operator,Television,War,Male,Local,No,Crossfire,Military Officials,,,,
+1145,Print Reporter,Print,War,Male,Local,No,Crossfire,Military Officials,,,,
+1146,"Broadcast Reporter, Print Reporter","Print, Radio",Crime,Male,Local,Yes,Murder,Criminal Group,Complete Impunity,No,No,Yes
+1147,Broadcast Reporter,Television,"Corruption, Crime, Politics",Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,No
+1148,Broadcast Reporter,Television,Politics,Male,Local,No,Dangerous Assignment,Mob Violence,,,,
+1149,Print Reporter,Print,War,Male,Foreign,No,Crossfire,Military Officials,,,,
+1150,Editor,Print,Politics,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1151,Camera Operator,Television,"Business, Corruption, Crime, Culture, Human Rights, Politics, Sports",Male,Local,No,Dangerous Assignment,Political Group,,,,
+1152,Print Reporter,Print,,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1153,Producer,Radio,"Culture, War",Male,Local,No,Murder,Political Group,Partial Impunity,Yes,Yes,Yes
+1154,Broadcast Reporter,Television,War,Female,Local,No,Crossfire,Political Group,,,,
+1155,Editor,"Print, Radio, Television","Politics, War",Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1156,Print Reporter,Print,War,Male,Foreign,Yes,Crossfire,Political Group,,,,
+1157,Broadcast Reporter,Radio,,Male,Local,No,Dangerous Assignment,Unknown Fire,,,,
+1158,Broadcast Reporter,"Television, Internet",War,Female,Local,No,Crossfire,Military Officials,,,,
+1159,"Editor, Print Reporter",Print,"Human Rights, Politics",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,Yes
+1160,Print Reporter,Print,"Corruption, Crime",Male,Local,No,Murder,Political Group,Complete Impunity,Yes,No,No
+1161,Print Reporter,Print,"Corruption, Politics",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1162,Camera Operator,Television,Politics,Male,Foreign,Yes,Murder,Political Group,Partial Impunity,No,No,No
+1163,"Camera Operator, Photographer","Television, Internet","Politics, War",Male,Foreign,No,Crossfire,Military Officials,,,,
+1164,Print Reporter,Print,,Male,Local,No,Dangerous Assignment,Unknown Fire,,,,
+1165,Publisher / Owner,Print,"Corruption, Human Rights, Politics",Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,Yes
+1166,Print Reporter,Print,"Politics, War",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1167,Producer,Television,Human Rights,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1168,Broadcast Reporter,Television,"Corruption, Human Rights, War",Male,Local,No,Murder,Political Group,Complete Impunity,Yes,No,No
+1169,Print Reporter,Print,"Corruption, Crime",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1170,"Broadcast Reporter, Internet Reporter","Radio, Internet",Corruption,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1171,Broadcast Reporter,Radio,"Culture, Politics",Male,Local,No,Murder,Local Residents,Full Justice,No,No,No
+1172,"Broadcast Reporter, Editor","Print, Television",Corruption,Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,No
+1173,Print Reporter,Print,"Corruption, Crime, Human Rights",Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,Yes
+1174,Camera Operator,Television,War,Male,Foreign,No,Crossfire,Military Officials,,,,
+1175,"Broadcast Reporter, Columnist / Commentator",Television,Sports,Male,Foreign,Yes,Dangerous Assignment,Political Group,,,,
+1176,Editor,"Print, Internet","Culture, Human Rights, Politics",Male,Local,No,Murder,Political Group,Partial Impunity,No,No,Yes
+1177,Camera Operator,"Television, Internet",War,Male,Foreign,Yes,Crossfire,Political Group,,,,
+1178,"Internet Reporter, Print Reporter","Print, Internet","Human Rights, Politics, War",Male,Foreign,Yes,Murder,Political Group,Complete Impunity,Yes,Yes,No
+1179,Print Reporter,Print,"Corruption, Crime, War",Male,Foreign,Yes,Murder,Criminal Group,Complete Impunity,Yes,No,No
+1180,Publisher / Owner,Print,"Culture, Sports",Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1181,Print Reporter,Print,"Corruption, Politics",Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,No
+1182,"Camera Operator, Producer",Television,"Corruption, Culture, Human Rights, War",Male,Local,No,Crossfire,Political Group,,,,
+1183,Print Reporter,Print,"Politics, Corruption",Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,No
+1184,Print Reporter,Print,Crime,Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,Yes
+1185,Camera Operator,Television,"Politics, War",Male,Local,No,Crossfire,Political Group,,,,
+1186,Broadcast Reporter,Television,"Politics, War, Human Rights, Culture",Male,Local,Yes,Dangerous Assignment,Political Group,,,,
+1187,"Broadcast Reporter, Editor",Television,War,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1188,Editor,Print,Politics,Male,Local,No,Murder,Political Group,Complete Impunity,Yes,No,No
+1189,Print Reporter,Print,"Human Rights, War",Male,Local,Yes,Dangerous Assignment,Political Group,,,,
+1190,Print Reporter,Print,"Culture, Politics",Male,Local,No,Murder,Mob Violence,Complete Impunity,No,No,No
+1191,Print Reporter,Print,War,Male,Local,No,Crossfire,Military Officials,,,,
+1192,Technician,Radio,War,Male,Local,No,Crossfire,Military Officials,,,,
+1193,"Broadcast Reporter, Editor",Television,Politics,Male,Local,No,Murder,Military Officials,Complete Impunity,Yes,No,Yes
+1194,Technician,Radio,War,Male,Local,No,Crossfire,Military Officials,,,,
+1195,Editor,Print,"Business, Crime, Human Rights, Politics",Male,Local,No,Murder,Government Officials,Complete Impunity,Yes,No,No
+1196,"Photographer, Internet Reporter",Internet,War,Male,Local,Yes,Crossfire,Military Officials,,,,
+1197,"Editor, Publisher / Owner",Print,"Corruption, Politics",Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1198,Print Reporter,Print,War,Male,Local,Yes,Dangerous Assignment,Political Group,,,,
+1199,Camera Operator,Television,"Culture, Politics, War",Male,Local,Yes,Murder,Unknown Fire,Complete Impunity,No,No,No
+1200,Camera Operator,Television,"Crime, Politics",Male,Local,No,Dangerous Assignment,Political Group,,,,
+1201,"Camera Operator, Photographer",Television,War,Male,Local,Yes,Crossfire,Political Group,,,,
+1202,Print Reporter,Print,"Business, Corruption, Crime, Human Rights, Politics",Male,Local,No,Dangerous Assignment,Government Officials,,,,
+1203,Camera Operator,Television,"Human Rights, Politics, War",Male,Local,Yes,Crossfire,Unknown Fire,,,,
+1204,Editor,Print,Politics,Male,Foreign,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1205,Camera Operator,Television,War,Male,Local,No,Crossfire,Military Officials,,,,
+1206,Broadcast Reporter,Television,War,Male,Foreign,No,Crossfire,Military Officials,,,,
+1207,"Broadcast Reporter, Print Reporter","Print, Television","Corruption, Crime, Human Rights",Male,Local,No,Murder,Local Residents,Complete Impunity,No,No,Yes
+1208,Print Reporter,Print,War,Male,Foreign,Yes,Dangerous Assignment,Military Officials,,,,
+1209,Print Reporter,Print,"Culture, Politics",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1210,Broadcast Reporter,Radio,"Politics, War",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1211,Columnist / Commentator,Television,Culture,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1212,Broadcast Reporter,Television,War,Male,Foreign,No,Crossfire,Military Officials,,,,
+1213,Editor,Television,Politics,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1214,"Broadcast Reporter, Camera Operator, Print Reporter","Print, Radio, Television",War,Male,Local,Yes,Crossfire,Political Group,,,,
+1215,Editor,Print,"Corruption, Crime, Culture, Human Rights, Politics, War",Male,Local,No,Murder,Political Group,Complete Impunity,Yes,No,No
+1216,Broadcast Reporter,Television,"Human Rights, Politics, War",Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1217,Broadcast Reporter,Radio,Politics,Male,Local,No,Murder,Paramilitary Group,Complete Impunity,No,No,No
+1218,Print Reporter,Print,Politics,Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,No
+1219,Camera Operator,Television,War,Male,Local,Yes,Crossfire,Military Officials,,,,
+1220,Photographer,"Print, Television",War,Male,Foreign,Yes,Crossfire,Military Officials,,,,
+1221,Broadcast Reporter,Television,Crime,Male,Local,No,Murder,Criminal Group,Full Justice,Yes,Yes,No
+1222,Broadcast Reporter,Radio,"Corruption, Crime",Male,Foreign,No,Murder,Unknown Fire,Complete Impunity,No,No,Yes
+1223,Editor,Print,Corruption,Male,Local,No,Murder,Government Officials,Complete Impunity,Yes,No,No
+1224,Print Reporter,Print,Politics,Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1225,Editor,Print,,Male,Local,No,Murder,Unknown Fire,Complete Impunity,Yes,No,No
+1226,"Camera Operator, Photographer, Publisher / Owner",Internet,"Human Rights, Politics, War",Male,Local,Yes,Crossfire,Military Officials,,,,
+1227,Print Reporter,Print,Corruption,Male,Local,No,Dangerous Assignment,Military Officials,,,,
+1228,Print Reporter,Print,Corruption,Male,Local,No,Dangerous Assignment,Military Officials,,,,
+1229,Print Reporter,Print,"Crime, Human Rights, Politics",Male,Local,No,Murder,Political Group,Partial Impunity,No,No,Yes
+1230,Camera Operator,Television,War,Male,Foreign,No,Murder,Criminal Group,Complete Impunity,No,No,No
+1231,Broadcast Reporter,"Print, Radio","Human Rights, Politics",Female,Local,No,Murder,Political Group,Full Justice,No,No,Yes
+1232,Print Reporter,Print,"Corruption, Human Rights, Politics",Male,Local,No,Murder,Local Residents,Complete Impunity,No,No,Yes
+1233,Print Reporter,Print,"Business, Crime",Male,Local,No,Murder,Criminal Group,Complete Impunity,No,Yes,Yes
+1234,"Columnist / Commentator, Print Reporter",Print,"Business, Culture, Politics",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,Yes
+1235,Print Reporter,Print,"Corruption, Crime, Politics",Male,Local,No,Murder,Criminal Group,Complete Impunity,Yes,Yes,No
+1236,Columnist / Commentator,Radio,Sports,Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,Yes
+1237,Editor,Print,"Corruption, Crime",Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,No
+1238,Print Reporter,Print,"Corruption, Crime",Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,Yes
+1239,Camera Operator,Television,,Male,Local,No,Murder,Paramilitary Group,Complete Impunity,No,No,No
+1240,Print Reporter,Print,Crime,Female,Local,No,Murder,Criminal Group,Partial Impunity,No,No,No
+1241,"Camera Operator, Photographer","Television, Internet","War, Human Rights",Female,Foreign,No,Crossfire,Political Group,,,,
+1242,Print Reporter,Print,"Corruption, Crime",Male,Local,Yes,Murder,Unknown Fire,Complete Impunity,No,No,No
+1243,Print Reporter,Print,Crime,Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,Yes
+1244,Producer,Radio,,Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1245,Broadcast Reporter,Television,Politics,Male,Local,No,Murder,Government Officials,Complete Impunity,Yes,Yes,No
+1246,Print Reporter,Print,"Business, Politics",Male,Local,No,Dangerous Assignment,Political Group,,,,
+1247,Print Reporter,Print,Corruption,Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,Yes
+1248,Print Reporter,Print,Crime,Male,Local,No,Murder,Criminal Group,Complete Impunity,No,Yes,No
+1249,Broadcast Reporter,Television,"Business, Culture, Politics",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,Yes
+1250,Camera Operator,Television,War,Male,Local,No,Crossfire,Military Officials,,,,
+1251,"Broadcast Reporter, Editor",Television,"Culture, Politics",Male,Foreign,No,Murder,Criminal Group,Complete Impunity,No,No,No
+1252,Broadcast Reporter,Radio,"Human Rights, Politics",Male,Local,No,Dangerous Assignment,Political Group,,,,
+1253,Editor,Print,Politics,Male,Local,No,Murder,Military Officials,Complete Impunity,No,No,Yes
+1254,Print Reporter,Print,"Politics, War",Male,Local,No,Dangerous Assignment,Military Officials,,,,
+1255,"Editor, Print Reporter",Print,"Corruption, Crime",Male,Local,No,Murder,Criminal Group,Full Justice,No,No,No
+1256,Print Reporter,Print,Politics,Male,Local,No,Dangerous Assignment,Military Officials,,,,
+1257,Editor,Print,"Business, Crime",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1258,Photographer,Print,War,Male,Local,No,Murder,Political Group,Complete Impunity,Yes,Yes,No
+1259,Print Reporter,Print,War,Male,Local,No,Crossfire,Military Officials,,,,
+1260,,Television,"Business, Crime, Culture, Politics",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1261,Print Reporter,Print,War,Male,Foreign,Yes,Crossfire,Military Officials,,,,
+1262,Photographer,Print,War,Male,Foreign,No,Crossfire,Paramilitary Group,,,,
+1263,"Internet Reporter, Print Reporter","Print, Internet",Politics,Male,Local,No,Murder,Local Residents,Partial Impunity,No,No,No
+1264,Editor,Print,War,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1265,Broadcast Reporter,Television,"Corruption, Crime, Culture, Politics, War",Male,Local,No,Dangerous Assignment,Local Residents,,,,
+1266,"Camera Operator, Photographer",Television,"War, Human Rights",Male,Local,Yes,Crossfire,Political Group,,,,
+1267,Camera Operator,Television,"Culture, Politics",Male,Local,Yes,Dangerous Assignment,Military Officials,,,,
+1268,Broadcast Reporter,Television,War,Male,Foreign,No,Crossfire,Political Group,,,,
+1269,Technician,Television,War,Male,Local,No,Crossfire,Military Officials,,,,
+1270,Photographer,Print,Crime,Male,Local,Yes,Murder,Government Officials,Partial Impunity,No,No,No
+1271,Broadcast Reporter,Television,"Corruption, Crime, Human Rights, Politics",Male,Local,No,Murder,Political Group,Partial Impunity,No,No,Yes
+1272,"Camera Operator, Photographer",Internet,"Human Rights, Politics, War",Male,Local,Yes,Crossfire,Military Officials,,,,
+1273,"Camera Operator, Photographer, Internet Reporter","Television, Internet","Human Rights, Politics, War",Male,Local,No,Crossfire,Military Officials,,,,
+1274,Internet Reporter,Internet,"Culture, Human Rights, Politics",Male,Local,Yes,Murder,Political Group,Complete Impunity,No,No,Yes
+1275,Broadcast Reporter,Television,"Culture, Politics",Female,Local,No,Murder,Political Group,Complete Impunity,Yes,No,No
+1276,"Internet Reporter, Print Reporter","Internet, Print","Business, Culture, Sports",Female,Local,No,Murder,Local Residents,Complete Impunity,No,No,Yes
+1277,Photographer,Print,Crime,Male,Foreign,Yes,Dangerous Assignment,Political Group,,,,
+1278,Broadcast Reporter,"Radio, Television",,Male,Local,No,Murder,Military Officials,Full Justice,No,Yes,No
+1279,Editor,Television,"Culture, Politics",Female,Local,No,Murder,Military Officials,Complete Impunity,No,No,No
+1280,Camera Operator,Television,War,Male,Local,No,Crossfire,Military Officials,,,,
+1281,Publisher / Owner,Print,Business,Male,Local,No,Murder,Local Residents,Complete Impunity,No,No,No
+1282,Broadcast Reporter,Radio,"Business, Corruption",Male,Local,Yes,Murder,Government Officials,Complete Impunity,No,No,Yes
+1283,Editor,Print,Corruption,Male,Local,No,Murder,Government Officials,Complete Impunity,Yes,No,Yes
+1284,Print Reporter,Print,War,Male,Foreign,No,Crossfire,Military Officials,,,,
+1285,"Editor, Print Reporter",Print,Politics,Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1286,Editor,Radio,"Corruption, Crime, Human Rights, Politics",Male,Local,No,Murder,Political Group,Complete Impunity,Yes,No,No
+1287,Print Reporter,Print,Politics,Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,Yes
+1288,"Columnist/Commentator, Publisher/Owner",Internet,"Corruption, Politics",Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,Yes
+1289,Camera Operator,"Internet, Television","Politics, War",Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1290,Broadcast Reporter,Television,War,Female,Local,No,Crossfire,Political Group,,,,
+1291,"Camera Operator, Photographer, Producer","Internet, Television","Human Rights, Politics",Male,Local,No,Dangerous Assignment,Military Officials,,,,
+1292,Broadcast Reporter,Radio,"Culture, Sports",Female,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1293,Editor,Print,War,Female,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,No
+1294,Camera Operator,Television,"Politics, War",Male,Foreign,Yes,Murder,Political Group,Complete Impunity,Yes,No,No
+1295,Print Reporter,Print,"Corruption, Human Rights, Politics",Male,Local,Yes,Murder,Unknown Fire,Complete Impunity,No,No,No
+1296,Broadcast Reporter,"Television, Internet","Human Rights, Politics, War",Male,Local,No,Crossfire,Military Officials,,,,
+1297,"Broadcast Reporter, Camera Operator",Internet,"Human Rights, War",Male,Local,No,Crossfire,Military Officials,,,,
+1298,Broadcast Reporter,Television,"Politics, War",Male,Local,No,Crossfire,Military Officials,,,,
+1299,"Broadcast Reporter, Camera Operator",Internet,"Human Rights, Politics, War",Male,Local,Yes,Crossfire,Military Officials,,,,
+1300,"Editor, Print Reporter",Print,"Corruption, Human Rights, War",Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,Yes
+1301,Print Reporter,Print,"Corruption, Crime",Male,Local,No,Murder,Criminal Group,Complete Impunity,No,No,No
+1302,Camera Operator,Television,War,Male,Local,No,Crossfire,Political Group,,,,
+1303,"Broadcast Reporter, Editor",Radio,"Human Rights, Politics",Male,Local,No,Murder,Unknown Fire,Complete Impunity,No,No,Yes
+1304,Editor,Print,"Human Rights, Politics, War",Male,Local,No,Crossfire,Military Officials,,,,
+1305,Camera Operator,Television,Politics,Male,Local,No,Dangerous Assignment,Military Officials,,,,
+1306,Internet Reporter,Internet,War,Male,Foreign,No,Crossfire,Unknown Fire,,,,
+1307,Photographer,Print,Politics,Male,Local,No,Dangerous Assignment,Political Group,,,,
+1308,Producer,"Print, Radio, Internet","Culture, Human Rights, Politics, War",Male,Local,Yes,Crossfire,Political Group,,,,
+1309,Broadcast Reporter,Internet,War,Male,Foreign,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1310,"Camera Operator, Internet Reporter",Internet,"Human Rights, Politics, War",Male,Local,No,Crossfire,Unknown Fire,,,,
+1311,Photographer,Print,Human Rights,Female,Foreign,Yes,Murder,Government Officials,Complete Impunity,Yes,Yes,No
+1312,Camera Operator,Television,War,Male,Local,No,Crossfire,Military Officials,,,,
+1313,Camera Operator,Television,,Male,Local,No,Murder,Political Group,Complete Impunity,No,No,No
+1314,"Editor, Internet Reporter",Internet,"Business, Culture, Human Rights, Politics",Male,Local,Yes,Dangerous Assignment,Government Officials,,,,
+1315,,Radio,"Human Rights, Politics",Female,Local,No,Murder,Local Residents,Complete Impunity,No,No,Yes
+1316,Print Reporter,Print,"Human Rights, Politics",Male,Local,Yes,Murder,Political Group,Complete Impunity,No,No,No
+1317,Editor,Print,Business,Male,Local,No,Murder,Local Residents,Complete Impunity,No,No,No
+1318,Broadcast Reporter,Radio,Corruption,Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,Yes
+1319,Print Reporter,Print,War,Male,Foreign,No,Crossfire,Military Officials,,,,
+1320,Print Reporter,Print,"Corruption, Politics",Male,Local,No,Murder,Political Group,Complete Impunity,No,No,Yes
+1321,Print Reporter,Print,"Corruption, Crime",Male,Local,No,Murder,Government Officials,Complete Impunity,No,No,No
+1322,Camera Operator,Television,"Human Rights, Politics, War",Male,Local,No,Dangerous Assignment,Political Group,,,,
+1323,Print Reporter,Print,"Business, Culture",Male,Local,No,Murder,Paramilitary Group,Complete Impunity,No,No,No
