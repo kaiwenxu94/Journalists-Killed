@@ -31,6 +31,8 @@ The data collection results of the two stages were finally merged into one csv(s
 Original dataset: [journalists_killed_completed_version.csv](https://github.com/kaiwenxu94/Journalists-Killed/blob/master/journalists_killed_completed_version.csv)  
 Trials on Data analysis and visualization: [data analysis and visualization.ipynb](https://github.com/kaiwenxu94/Journalists-Killed/blob/master/data%20analysis%20and%20visualization.ipynb)  
 [Collection of interactive diagrams](http://nbviewer.jupyter.org/github/kaiwenxu94/Journalists-Killed/blob/master/Interactive%20Diagram.ipynb)
+[Interview with Dr. Luqiu](https://www.youtube.com/embed/jzmI6e1LB4c)
+[Presentation slides](https://drive.google.com/file/d/1HXykljU1yxa2rc7zAWVzolKM6WfaJYhd/view?usp=sharing)
 
 
 ## References
