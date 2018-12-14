@@ -28,6 +28,7 @@ The data collection results of the two stages were finally merged into one csv(s
 
 
 ## Quick pointers to key files
+Website: [Daring to Remember: Journalists in Danger Worldwide](https://ivywang958.github.io/WarAndPeace/)
 Original dataset: [journalists_killed_completed_version.csv](https://github.com/kaiwenxu94/Journalists-Killed/blob/master/journalists_killed_completed_version.csv)  
 Trials on Data analysis and visualization: [data analysis and visualization.ipynb](https://github.com/kaiwenxu94/Journalists-Killed/blob/master/data%20analysis%20and%20visualization.ipynb)  
 [Collection of interactive diagrams](http://nbviewer.jupyter.org/github/kaiwenxu94/Journalists-Killed/blob/master/Interactive%20Diagram.ipynb)  
