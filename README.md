@@ -38,5 +38,4 @@ Trials on Data analysis and visualization: [data analysis and visualization.ipyn
 
 ## References
 [Committee to Protect Journalists](https://cpj.org/)  
-[Press freedom index](https://en.wikipedia.org/wiki/Press_Freedom_Index)  
-[pygal](http://www.pygal.org/en/stable/index.html)
+[Press freedom index](https://en.wikipedia.org/wiki/Press_Freedom_Index) 
