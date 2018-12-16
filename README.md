@@ -1,5 +1,5 @@
 ## Title
-[Daring to Remember: Journalists in Danger Worldwide](https://ivywang958.github.io/WarAndPeace/)
+[Daring to Remember: Journalists in Danger Worldwide](https://ivywang958.github.io/WarAndPeace/)(click to view the webpage)
 
 
 ## Team members
@@ -20,20 +20,27 @@ and a face-to-face interview with Dr. Luqiu, a former Chinese war correspondent 
 in Afghanistan and Iraq, Libya and Gaza.
 
 
-## Executive summary
+## Quick pointers to key files
+### Final Presentation  
+Website: [Web page html codes](https://github.com/ivyWANG958/WarAndPeace)  
+Class presentation PPT: [Presentation slides](https://drive.google.com/file/d/1HXykljU1yxa2rc7zAWVzolKM6WfaJYhd/view?usp=sharing)(the file is >100M so we upload it to the google drive)  
+
+### Data collection  
+Original dataset: [journalists_killed_completed_version.csv](https://github.com/kaiwenxu94/Journalists-Killed/blob/master/journalists_killed_completed_version.csv)  
+Data collection phase1: [Data collection-phase 1.ipynb](https://github.com/kaiwenxu94/Journalists-Killed/blob/master/data%20collection-phase%201.ipynb)  
+Data collection phase2: ["data collection-phase 2"](https://github.com/kaiwenxu94/Journalists-Killed/tree/master/data%20collection-phase%202)  
 We divided the data collection into two phases. The first phase was completed as assignment one(see [data collection-phase 1.ipynb](https://github.com/kaiwenxu94/Journalists-Killed/blob/master/data%20collection-phase%201.ipynb)), which only collected the time, location, organization, type of death and the url attached to each journlist's name, in which further detailed individual information was contained.  
 In the second phase, we used splinter to click the urls of 1324 dead journalists one by one to collect detailed individual information such as their job, suspected source of fire, beats covered, etc. We tried to use BeautifulSoup parser at first but no matter how we tried, it failed to extract the information that we wanted from the corresponding html tags, and splinter was the only way left.  
 As is shown in the ["data collection-phase 2"](https://github.com/kaiwenxu94/Journalists-Killed/tree/master/data%20collection-phase%202) folder, we divided 1324 items into four parts with 331 each so that the computer could get a rest after scraping 331 items each time(see for example [range(0,331).ipynb](https://github.com/kaiwenxu94/Journalists-Killed/blob/master/data%20collection-phase%202/range(0%2C331).ipynb)). Sometimes splinter just skipped several urls and returned nothing, hence, after scraping for the first time in phase 2, we filtered the missing items and scraped the corresponding pages with splinter again(see for example [cleaned_range(0,331).ipynb](https://github.com/kaiwenxu94/Journalists-Killed/blob/master/data%20collection-phase%202/clean_range(0%2C331).ipynb)). 
 The data collection results of the two stages were finally merged into one csv(see [journalists_killed_completed_version.csv](https://github.com/kaiwenxu94/Journalists-Killed/blob/master/journalists_killed_completed_version.csv)). Then we did the data analysis and visualization job.
 
 
-## Quick pointers to key files
-Website: [Daring to Remember: Journalists in Danger Worldwide](https://ivywang958.github.io/WarAndPeace/)  
-Original dataset: [journalists_killed_completed_version.csv](https://github.com/kaiwenxu94/Journalists-Killed/blob/master/journalists_killed_completed_version.csv)  
-Trials on Data analysis and visualization: [data analysis and visualization.ipynb](https://github.com/kaiwenxu94/Journalists-Killed/blob/master/data%20analysis%20and%20visualization.ipynb)  
+### Data analysis and visualization  
+[Trials on data analysis and visualization](https://github.com/kaiwenxu94/Journalists-Killed/blob/master/data%20analysis%20and%20visualization.ipynb)  
 [Collection of interactive diagrams](http://nbviewer.jupyter.org/github/kaiwenxu94/Journalists-Killed/blob/master/Interactive%20Diagram.ipynb)  
-[Interview with Dr. Luqiu](https://www.youtube.com/embed/jzmI6e1LB4c)  
-[Presentation slides](https://drive.google.com/file/d/1HXykljU1yxa2rc7zAWVzolKM6WfaJYhd/view?usp=sharing)
+
+### Interview  
+[Interview with Dr. Luqiu](https://www.youtube.com/embed/jzmI6e1LB4c)(the file is >100M so we upload it to youtube)  
 
 
 ## References
